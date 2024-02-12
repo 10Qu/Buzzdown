@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/j/wcPtUhp/b/ESgZXpFSsGM3OmCNRpoMQwiX919yoTjgsztcwNnA34qKve1M7TlvJAD7u7rV0vW0B9S05azg==",
+  "success": true,
+  "projectFilePath": "E:\\Dokumente\\5. Studium\\8. GameDesign\\4. Spieletechnik I\\Buzzdown\\Buzzdown.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anwender\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
